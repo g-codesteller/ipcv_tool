@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision Tool for Auto Annotation
+# IPCV Plugins for Auto Annotation - 
 
 ## Overview
 This is an online Image Processing and Computer Vision Plugin for improving Auto Annotation Frameworks
